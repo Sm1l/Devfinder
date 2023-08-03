@@ -1,3 +1,3 @@
-Devfinder
+# Devfinder
 
-# TypeScript
+React, css modules, TypeScript
